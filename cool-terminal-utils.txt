@@ -4,3 +4,4 @@ ncdu
 colordiff
 bat
 vim -d file1 file1
+fd
