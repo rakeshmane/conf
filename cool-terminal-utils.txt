@@ -1,0 +1,6 @@
+fzf
+lsd -al
+ncdu
+colordiff
+bat
+vim -d file1 file1
