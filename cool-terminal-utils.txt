@@ -5,3 +5,4 @@ colordiff
 bat
 vim -d file1 file1
 fd
+rg # brew install ripgrep | fast and elegant alternative to grep
