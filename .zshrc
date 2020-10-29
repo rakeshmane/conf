@@ -9,3 +9,4 @@ alias ls='lsd -al'
 alias diff='colordiff'
 alias vimdiff='vim -d'
 alias du='ncdu'
+#test
